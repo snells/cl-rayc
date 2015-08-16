@@ -70,7 +70,7 @@
 	(if low-box
 	    (let ((c (choosecolor 2)))
 	      (if (caddr low-box) (darken c))
-	      (draw-box i (car low-box) (cadr low-box) 32 c)))
+	      (draw-ray i (car low-box) (cadr low-box) 32 c)))
 	(let ((c (choosecolor val)))
 	  (if side (darken c))
 	  (draw-ray i x y 64 c)))))

@@ -15,3 +15,5 @@ w move forward
 s move backward   
 a decrease rotation   
 d increase rotation
+
+![sample image](https://raw.githubusercontent.com/snells/cl-rayc/master/rayc.png)

@@ -11,7 +11,7 @@ To run clone this project to your quicklisp/local-packages
 (run-loop)   
 
 
-w move forward
+w move forward   
 s move backward   
 a decrease rotation   
 d increase rotation
